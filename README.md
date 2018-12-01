@@ -4,4 +4,4 @@ Este projeto nasceu como um guia a cerca das tecnologias e padrões utilizados n
 
 # Sumário
 
-[Análise estática de código] (static_analysis.md)
+[Análise estática de código](static_analysis.md)
