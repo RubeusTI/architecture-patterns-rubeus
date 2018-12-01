@@ -26,4 +26,6 @@
     ~/.composer/vendor/bin/phpmd app/ text unusedcode
 ```
 
+* [PHP Coding Standards Fixer](http://cs.sensiolabs.org/)
+
 [Agradecimneto à dseguy](https://github.com/exakat/php-static-analysis-tools#bugs-finders)
