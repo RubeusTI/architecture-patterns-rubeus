@@ -1,0 +1,1 @@
+[Creating a modular application in laravel](https://kamranahmed.info/blog/2015/12/03/creating-a-modular-application-in-laravel/)
