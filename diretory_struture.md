@@ -101,3 +101,7 @@ Responsável por tratar regras referentes ao negocio e guarda as entidades relev
 ## Infrastruture:
 
 Resposável por persistir e recuperar os dados da aplicação e interface de comunicação com outros recursos extermos a aplicação
+
+
+[Controller Laravel](https://matthewdaly.co.uk/blog/2018/02/18/put-your-laravel-controllers-on-a-diet/)
+[Soft delete](https://laravel.com/docs/5.7/eloquent#soft-deleting)
